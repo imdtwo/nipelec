@@ -1,0 +1,20 @@
+{
+  "name": "nipatcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^24.1.0"
+  },
+  "dependencies": {
+    "electron-progressbar": "^2.0.1",
+    "fs-extra": "^11.1.1"
+  }
+}
